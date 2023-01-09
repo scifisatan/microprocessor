@@ -4,9 +4,9 @@ enableToc: false
 ---
 
 
-1.  [Introduction to Microprocessors](Videos/8085/IntroductiontoMicroprocessors.md target="_blank") 
-2.  [Architecture in Hindi](Videos/8085/ArchitectureinHindi.md target="_blank") 
-3.  [Architecture](Videos/8085/Architecture.md target="_blank") 
+1.  [Introduction to Microprocessors](Videos/8085/IntroductiontoMicroprocessors.md) 
+2.  [Architecture in Hindi](Videos/8085/ArchitectureinHindi.md) 
+3.  [Architecture](Videos/8085/Architecture.md) 
 4.  [Pin Diagram](Videos/8085/PinDiagram.md)
 5.  [Flag Register](Videos/8085/FlagRegister.md)
 6.  [Addressing Modes](Videos/8085/AddressingModes.md)
