@@ -11,12 +11,8 @@
             "id": "5305f8826aa5066b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/_index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5305f8826aa5066b",
+  "active": "0e3d1ad3fb9b3a7b",
   "lastOpenFiles": [
-    "Videos/8085/IntroductiontoMicroprocessors.html.md",
-    "content/_index.md"
+    "content/_index.md",
+    "Videos/8085/IntroductiontoMicroprocessors.html.md"
   ]
 }
