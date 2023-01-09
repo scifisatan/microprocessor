@@ -1,17 +1,17 @@
 name: BCT077
-enableToc: true
+enableToc: false
 openToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 enableLatex: true
-enableCodeBlockTitle: true
-enableCodeBlockCopy: true
-enableCallouts: true
+enableCodeBlockTitle: false
+enableCodeBlockCopy: false
+enableCallouts: false
 enableSPA: true
-enableFooter: true
-enableContextualBacklinks: true
+enableFooter: false
+enableContextualBacklinks: false
 enableRecentNotes: false  
 enableGitHubEdit: false
-enableMermaid: true
+enableMermaid: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
